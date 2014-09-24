@@ -1,3 +1,8 @@
+/*
+	Richard D. Grant
+	R.grant.jr.122193@gmail.com
+	-Contact for details-
+*/
 using System;
 using System.Net;
 using System.Net.Sockets;
